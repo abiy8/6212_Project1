@@ -6,6 +6,7 @@ pip install matplotlib reportlab python-docx
 ## How to Run
 Clone or download this repository: 
 git clone https://github.com/abiy8/6212_Project1.git
+
 Open a terminal in the project directory.
 Run the experiment script:
 python complexity_experiment.py
